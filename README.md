@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project: Recipes
+Building The Odin Project: Recipes using HTML and CSS
