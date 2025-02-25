@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+body {
+  background:url('https://media1.giphy.com/media/3oEjHImwTUlfR2wBji/giphy.gif');
+  background-size: 100%;
+  
+}
+div {
+  background-color: rgba(255, 255, 255, 0.85);
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  margin-top: 80px;
+}
+#title {
+  font-size: 2.5rem;
+  margin: 50px auto;
+}
+li {
+  list-style-type: none;
+  display: inline-block;
+  margin: auto 45px;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+a {
+  text-decoration: none;
+}
