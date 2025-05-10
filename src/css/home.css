@@ -5,6 +5,7 @@
 body {
   background-color: #000;
   color: #eee;
+  margin: 1.5rem;
 }
 
 h1 {
@@ -31,4 +32,10 @@ main a {
 main a:hover {
   color: #d68c02;
   text-decoration: underline;
+}
+
+@media only screen and (max-width: 600px){
+  main a {
+    font-size: 1rem;
+  }
 }
